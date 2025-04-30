@@ -1,6 +1,6 @@
 # UNO em C 🎴
 
-Este é um projeto do jogo **UNO**, desenvolvido em linguagem C como trabalho final de uma disciplina da faculdade. O jogo é executado no terminal e segue as regras clássicas do UNO, com suporte para múltiplos jogadores.
+Este é um projeto do jogo **UNO**, desenvolvido em linguagem C como trabalho final de uma disciplina da faculdade. O jogo é executado no terminal e segue as regras clássicas do UNO.
 
 ## 🧩 Funcionalidades
 
